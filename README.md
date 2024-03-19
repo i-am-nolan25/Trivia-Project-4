@@ -2,34 +2,30 @@
 
 Submitted by: **Nolan Lwin**
 
-A Trivia app is a mobile application that tests your knowledge on a variety of topics through a question-and-answer format. It typically displays a question, multiple answer choices, and allows you to select the answer you believe is correct. The app keeps track of your score and shows how many questions you answer correctly at the end.
-Time spent: **4** hours spent in total
+Trivia is an app that allows users to play Trivia, with questions retrieved from the Open Trivia Database API. Users can see their overall score after submitting all questions, and also see current progress and get immediate feedback after each question. Users can also reset the game with a new set of questions if they choose to do so.
+
+Time spent: **15** hours spent in total
 
 ## Required Features
 
 The following **required** functionalities are completed:
 
-- [x] A user should be able to view the current question and 4 different answers
-      
-- [x] A user should be able to view the next question after tapping on an answer
-
-- [x] A user should be able to answer at least 3 different questions
+- [x] User can view and answer at least 5 trivia questions.
+- [x] App retrieves question data from the Open Trivia Database API.
+- [x] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [x] Users can see score after submitting all questions.
+- [x] True or False questions only have two options.
 
 ## Stretch Features
 
 The following **stretch** feature is implemented:
 
-- [x] A user should be able to properly use the app in the vertical orientation on any device size
-
-- [x] A user should be able to track which question they're currently on and how much they have left
-
-- [x] A user should be able to view how many questions they got correct after they've answered all the questions
-
-- [x] A user should be able to restart the game after they've finished answering all questions
+- [ ] Allow the user to choose a specific category of questions.
+- [x] Provide the user feedback on whether each question was correct before navigating to the next.
 
 ## Video Walkthrough
 
-https://github.com/i-am-nolan25/Trivia-Project-3/assets/113712250/e9fff352-8272-4878-9f36-f3124fccd29f
+https://github.com/i-am-nolan25/Trivia-Project-4/assets/113712250/2f078ad7-597a-4743-82cb-ce55789cf89e
 
 ## License
 
